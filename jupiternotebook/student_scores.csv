@@ -1,0 +1,13 @@
+gender,ethnicity,parent_education,lunch,test_prep,math_score,reading_score,writing_score
+female,group A,bachelor,standard,completed,78,82,80
+male,group B,high school,free,none,65,70,68
+female,group C,master,standard,completed,90,95,93
+male,group A,associate,standard,none,72,68,70
+female,group D,bachelor,free,none,60,65,63
+male,group C,high school,standard,completed,85,80,84
+female,group B,master,standard,completed,88,90,92
+female,group A,associate,free,none,55,60,58
+male,group D,bachelor,standard,completed,82,78,80
+female,group C,master,standard,completed,93,96,94
+
+
